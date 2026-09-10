@@ -3,10 +3,10 @@
 // No restart/build step needed beyond a redeploy (Vercel redeploys on push).
 
 const VALID_KEYS = [
-  "bunny",
+  "th3bunny",
   "key123",
   "admin_access",
-  "test_key",
+  "avik21",
 ];
 
 module.exports = { VALID_KEYS };
